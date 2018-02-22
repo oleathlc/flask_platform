@@ -1,3 +1,16 @@
+=============
+How to use
+============
+
+To use this flask_platform application, you must first have installed the sysinfo module from github 
+(url: https://github.com/oleathlc/sysinfo.git).
+
+Once the module has been installed, open up an instance of the bash terminal. Then, navigate to the
+src folder within the flask_platform directory, and then to the dummyapp repository. From here you
+can run the flask app, using the commmand "$ ~/src/dummyapp/  python run.py. Now, open an internet 
+browser and enter "localhost:5000" and the system information will be shown there.
+
+
 ==============
 flask_platform
 ==============
